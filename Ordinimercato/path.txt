@@ -1,0 +1,24 @@
+java -cp hsqldb.jar org.hsqldb.Server -database.0 file:spesa -dbname.0 xdb
+
+
+
+C:\Sun\SDK\jdk\bin\java -cp hsqldb.jar org.hsqldb.Server -database.0 file:spesa -dbname.0 xdb
+
+
+
+http://www.mrwebmaster.it/sql/guide/select-interrogazione-tabella_192.html
+
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import javax.naming.*;
+import javax.sql.*;
+import java.sql.*;
+
+import java.sql.Statement;
+
+
+
+http://www.javaportal.it/rw/17730/1/17801/75116/1/discussion/message.html
